@@ -1,4 +1,5 @@
 import bodyParser from 'body-parser';
+import cors from 'cors';
 //Dependencies
 import express from 'express';
 import multer from 'multer';
@@ -24,6 +25,7 @@ app.disable('etag').disable('x-powered-by');
 
 // configure app to use bodyParser()
 // this will let us get the data from a POST
+app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(multer().array());
