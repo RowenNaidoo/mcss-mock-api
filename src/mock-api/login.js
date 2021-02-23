@@ -7,8 +7,8 @@ module.exports = (request, response) => {
         httpOnly: true
       })
       .status(302)
-      .redirect('/storeSelection.html');
+      .redirect('https://www.google.com.au');
   } else {
-    response.status(302).redirect('/login.html?SMAUTHREASON=51');
+    response.status(302).redirect('http://localhost:4502/content/optus/en/dnav/shailesh-test.html?SMAUTHREASON=51');
   }
 };
