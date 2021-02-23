@@ -1,0 +1,126 @@
+{
+  "ImplSearchAviableOutput": {
+    "implMsisdnSpec": [
+      {
+        "phoneNo": "0444444441",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444442",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444443",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444444",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444445",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444446",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "0444444447",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444448",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444449",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444410",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444411",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444412",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444413",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444414",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444415",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444416",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444417",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444418",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444419",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444420",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444421",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444422",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444423",
+        "type": "TN",
+        "subType": "MBL"
+      },
+      {
+        "phoneNo": "044444424",
+        "type": "TN",
+        "subType": "MBL"
+      }
+    ]
+  }
+}

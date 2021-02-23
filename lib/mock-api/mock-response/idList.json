@@ -1,0 +1,689 @@
+{
+  "ChoiceListResponse": {
+    "choices": [
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              }
+            ],
+            "rank": 0,
+            "title": "Please Specify",
+            "default": true,
+            "ID": "Please Specify"
+          }
+        ],
+        "rank": 0,
+        "title": "Please Specify",
+        "default": true,
+        "ID": "Please Specify"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 12,
+                "title": "Utility Inv",
+                "default": false,
+                "ID": "Utility Inv"
+              },
+              {
+                "obsolute": true,
+                "rank": 13,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              },
+              {
+                "obsolute": true,
+                "rank": 13,
+                "title": "State",
+                "default": false,
+                "ID": "STATE"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 1,
+        "title": "Additional Docs",
+        "default": false,
+        "ID": "Additional Docs"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Aus Pensioner Card (DSP, PPS & CA)",
+                "default": false,
+                "ID": "Aus Pensioner Card (DSP, PPS & CA)"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "Aus Shooters or Firearms Licence",
+                "default": false,
+                "ID": "Aus Shooters or Firearms Licence"
+              },
+              {
+                "obsolute": false,
+                "rank": 7,
+                "title": "Blind Citizens Aus",
+                "default": false,
+                "ID": "Blind Citizens Aus"
+              },
+              {
+                "obsolute": true,
+                "rank": 8,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 2,
+        "title": "Alternate Primary ID's",
+        "default": false,
+        "ID": "Alternate Primary ID's"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Aus Defence Force Drivers Licence",
+                "default": false,
+                "ID": "Aus Defence Force Drivers Licence"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "Aus Military ID",
+                "default": false,
+                "ID": "Aus Military ID"
+              },
+              {
+                "obsolute": true,
+                "rank": 4,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 3,
+        "title": "Armed Forces ID's",
+        "default": false,
+        "ID": "Armed Forces ID's"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "ACT",
+                "default": false,
+                "ID": "ACT"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "NSW",
+                "default": false,
+                "ID": "NSW"
+              },
+              {
+                "obsolute": true,
+                "rank": 9,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 4,
+        "title": "Driving Licence",
+        "default": false,
+        "ID": "Driving Licence"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "ACT",
+                "default": false,
+                "ID": "ACT"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "NSW",
+                "default": false,
+                "ID": "NSW"
+              },
+              {
+                "obsolute": true,
+                "rank": 9,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 5,
+        "title": "Learners Driving Licence",
+        "default": false,
+        "ID": "Learners Driving Licence"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": true,
+                "rank": 1,
+                "title": "Full",
+                "default": false,
+                "ID": "Full"
+              },
+              {
+                "obsolute": true,
+                "rank": 2,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 6,
+        "title": "Medicare",
+        "default": false,
+        "ID": "Medicare"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "AFGHANISTAN",
+                "default": false,
+                "ID": "AFGHANISTAN"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "ALBANIA",
+                "default": false,
+                "ID": "ALBANIA"
+              },
+              {
+                "obsolute": false,
+                "rank": 257,
+                "title": "YUGOSLAVIA",
+                "default": false,
+                "ID": "YUGOSLAVIA"
+              },
+              {
+                "obsolute": false,
+                "rank": 258,
+                "title": "ZAIRE",
+                "default": false,
+                "ID": "ZAIRE"
+              },
+              {
+                "obsolute": false,
+                "rank": 259,
+                "title": "ZAMBIA",
+                "default": false,
+                "ID": "ZAMBIA"
+              },
+              {
+                "obsolute": false,
+                "rank": 260,
+                "title": "ZIMBABWE",
+                "default": false,
+                "ID": "ZIMBABWE"
+              },
+              {
+                "obsolute": true,
+                "rank": 261,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 7,
+        "title": "Overseas Passport",
+        "default": false,
+        "ID": "Overseas Passport"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "AUSTRALIA",
+                "default": false,
+                "ID": "AUSTRALIA"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "NEW ZEALAND",
+                "default": false,
+                "ID": "NEW ZEALAND"
+              },
+              {
+                "obsolute": true,
+                "rank": 3,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 8,
+        "title": "Passport",
+        "default": false,
+        "ID": "Passport"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "ACT",
+                "default": false,
+                "ID": "ACT"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "NSW",
+                "default": false,
+                "ID": "NSW"
+              },
+              {
+                "obsolute": false,
+                "rank": 9,
+                "title": "Generic Photocard",
+                "default": false,
+                "ID": "Generic Photocard"
+              },
+              {
+                "obsolute": true,
+                "rank": 10,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 9,
+        "title": "Photo Card",
+        "default": false,
+        "ID": "Photo Card"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Keypass",
+                "default": false,
+                "ID": "Keypass"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "ACT",
+                "default": false,
+                "ID": "ACT"
+              },
+              {
+                "obsolute": true,
+                "rank": 10,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Principle",
+            "default": true,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 10,
+        "title": "Proof Of Age",
+        "default": false,
+        "ID": "Proof Of Age"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Proof of Address",
+                "default": false,
+                "ID": "Proof of Address"
+              },
+              {
+                "obsolute": true,
+                "rank": 2,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": false,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 11,
+        "title": "Reverse of Card",
+        "default": false,
+        "ID": "Reverse of Card"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Others",
+                "default": false,
+                "ID": "Others"
+              },
+              {
+                "obsolute": false,
+                "rank": 2,
+                "title": "SignedContract",
+                "default": false,
+                "ID": "SignedContract"
+              },
+              {
+                "obsolute": true,
+                "rank": 5,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": false,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 12,
+        "title": "Secondary ID's",
+        "default": false,
+        "ID": "Secondary ID's"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "Airtime Connect",
+                "default": false,
+                "ID": "Airtime Connect"
+              },
+              {
+                "obsolute": true,
+                "rank": 2,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": false,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 13,
+        "title": "Service",
+        "default": false,
+        "ID": "Service"
+      },
+      {
+        "obsolute": false,
+        "choices": [
+          {
+            "obsolute": false,
+            "choices": [
+              {
+                "obsolute": false,
+                "rank": 0,
+                "title": "Please Specify",
+                "default": true,
+                "ID": "Please Specify"
+              },
+              {
+                "obsolute": false,
+                "rank": 1,
+                "title": "ExistingCustomer",
+                "default": false,
+                "ID": "ExistingCustomer"
+              },
+              {
+                "obsolute": true,
+                "rank": 2,
+                "title": "Not Specified",
+                "default": false,
+                "ID": "Not Specified"
+              }
+            ],
+            "rank": 0,
+            "title": "Non-Principle",
+            "default": false,
+            "ID": "Principle"
+          }
+        ],
+        "rank": 14,
+        "title": "Telesales",
+        "default": false,
+        "ID": "Telesales"
+      }
+    ]
+  }
+}

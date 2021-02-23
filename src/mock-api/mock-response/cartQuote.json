@@ -1,0 +1,2304 @@
+{
+  "ImplCartQuoteResponse": {
+    "productOrderId": "71001",
+    "barNumber": "333334734",
+    "productOfferings": [
+      {
+        "bundle": false,
+        "id": "34410384",
+        "name": "$39 Optus Choice Small(Nov 19)",
+        "productOfferingInstanceId": "100104500",
+        "products": [
+          {
+            "transactionId": "b061e0db-a366-4b85-81f0-e73158b6d396",
+            "displayItems": {
+              "Device_BCC": {
+                "name": "Apple iPh11 64BK",
+                "code": "Device_BCC",
+                "productId": "100104510",
+                "parentProductID": "100104509",
+                "productSpecId": "34408584",
+                "parentProductSpecContainmentID": "34408574",
+                "catalogID": "8371864",
+                "totalRecurringPrice": {
+                  "currency": "AUD",
+                  "originalAmount": 0.0,
+                  "finalAmount": 99.9,
+                  "finalAmountIncludingTax": 99.9,
+                  "finalTaxAmount": 0.0,
+                  "discountAmount": 0.0,
+                  "discountPercentage": 0.0,
+                  "finalAmountForMonth": 99.9,
+                  "finalAmountIncludingTaxForMonth": 99.9
+                },
+                "attributes": [
+                  {
+                    "code": "5G_Enabled_Handset",
+                    "id": "20851961",
+                    "name": "5G Enabled Device",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Device_Choice_BCC",
+                    "id": "20116001",
+                    "name": "Device Choice"
+                  },
+                  {
+                    "code": "Device_Repayment_Waive_Indicator_BCC",
+                    "id": "10164801",
+                    "name": "Device Repayment Waive Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Flex_Upgrade_Indicator_BCC",
+                    "id": "20549151",
+                    "name": "Flex Upgrade Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Leased_Grace_Period_BCC",
+                    "id": "20115901",
+                    "name": "Leased Grace Period",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "MTPOS_Availability_BCC",
+                    "id": "11135021",
+                    "name": "MTPOS Availability BCC",
+                    "defaultValue": "AV",
+                    "value": "AV"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_BCC",
+                    "id": "10171401",
+                    "name": "Month to Accelerate",
+                    "defaultValue": "1",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Store_Type",
+                    "id": "8411144",
+                    "name": "Store Type"
+                  },
+                  {
+                    "code": "Trade_Up_BCC",
+                    "id": "10171701",
+                    "name": "Trade Up",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Equipment_CID_BCC",
+                    "id": "8361464",
+                    "name": "Equipment CID",
+                    "value": "34347764"
+                  },
+                  {
+                    "code": "Acquistion_Type_BCC",
+                    "id": "8361524",
+                    "name": "Acquisition Type",
+                    "defaultValue": "With Plan",
+                    "value": "With Plan"
+                  },
+                  {
+                    "code": "IMEI_BCC",
+                    "id": "8361514",
+                    "name": "IMEI"
+                  },
+                  {
+                    "code": "Installment_Months_BCC",
+                    "id": "8412814",
+                    "name": "Instalment Months",
+                    "value": "12"
+                  },
+                  {
+                    "code": "Model_BCC",
+                    "id": "8361494",
+                    "name": "Model",
+                    "value": "iPhone 11"
+                  },
+                  {
+                    "code": "Installment_End_Date_BCC",
+                    "id": "8361944",
+                    "name": "Instalment End Date",
+                    "value": "1633890600000"
+                  },
+                  {
+                    "code": "Device_Name_BCC",
+                    "id": "8403154",
+                    "name": "Device Name",
+                    "value": "Apple iPh11 64BK"
+                  },
+                  {
+                    "code": "Warranty_Duration_BCC",
+                    "id": "8361544",
+                    "name": "Warranty Duration",
+                    "value": "12"
+                  },
+                  {
+                    "code": "Warranty_End_Date_BCC",
+                    "id": "8361564",
+                    "name": "Warranty End Date",
+                    "value": "1605033000000"
+                  },
+                  {
+                    "code": "SIM_Type_BCC",
+                    "id": "8361614",
+                    "name": "SIM Type",
+                    "value": "Nano SIM + eSIM"
+                  },
+                  {
+                    "code": "Device_Type_BCC",
+                    "id": "8361504",
+                    "name": "Device Type",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Store_ID_BCC",
+                    "id": "8361534",
+                    "name": "Store ID"
+                  },
+                  {
+                    "code": "Manufacturer_Warranty_Duration_BCC",
+                    "id": "8362004",
+                    "name": "Manufacturer Warranty Duration",
+                    "value": "N/A"
+                  },
+                  {
+                    "code": "Warranty_Start_Date_BCC",
+                    "id": "8361554",
+                    "name": "Warranty Start Date",
+                    "value": "1602441000000"
+                  },
+                  {
+                    "code": "Contract_Duration_BCC",
+                    "id": "8361424",
+                    "name": "Contract Duration",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Plan_Id_BCC",
+                    "id": "8362014",
+                    "name": "Plan Id",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Installment_Start_Date_BCC",
+                    "id": "8361934",
+                    "name": "Instalment Start Date",
+                    "value": "1602527399000"
+                  },
+                  {
+                    "code": "SKU_BCC",
+                    "id": "8361474",
+                    "name": "SKU",
+                    "value": "2113021"
+                  },
+                  {
+                    "code": "Reservation_ID",
+                    "id": "8411124",
+                    "name": "Reservation ID"
+                  },
+                  {
+                    "code": "Brand_BCC",
+                    "id": "8361484",
+                    "name": "Brand",
+                    "value": "Apple"
+                  },
+                  {
+                    "code": "Is_Reserved",
+                    "id": "8411174",
+                    "name": "Is Reserved",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Cash_by_Optus_enabled",
+                    "id": "9088371",
+                    "name": "Optus Pay enabled",
+                    "value": "No"
+                  },
+                  {
+                    "code": "VoLTE_Enable_Device",
+                    "id": "8362404",
+                    "name": "VoLTE Enable Device",
+                    "defaultValue": "No",
+                    "value": "Yes"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409044",
+                    "name": "Device Credit Charges",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 0.0,
+                      "finalAmount": 0.0,
+                      "finalAmountIncludingTax": 0.0,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "totalInstallmentMonths": 12,
+                      "finalAmountForMonth": 0.0,
+                      "finalAmountIncludingTaxForMonth": 0.0
+                    },
+                    "description": "Device Credit Charges",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8398644",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34409054",
+                    "name": "Device Repayment Charges",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 0.0,
+                      "finalAmount": 1198.8,
+                      "finalAmountIncludingTax": 99.9,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "totalInstallmentMonths": 12,
+                      "finalAmountForMonth": 99.9,
+                      "finalAmountIncludingTaxForMonth": 99.9
+                    },
+                    "description": "Device Repayment Charges",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8398484",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "defaultQuantity": 0,
+                "selected": true
+              },
+              "SIM_BCC": {
+                "name": "SIM",
+                "code": "SIM_BCC",
+                "productId": "100104503",
+                "parentProductID": "100104501",
+                "productSpecId": "8375134",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372014",
+                "attributes": [
+                  {
+                    "code": "BYO_SIM_BCC",
+                    "id": "11035262",
+                    "name": "BYO SIM",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "SIM_Category_BCC",
+                    "id": "20850741",
+                    "name": "SIM Category"
+                  },
+                  {
+                    "code": "SIM_Copy_BCC",
+                    "id": "8396004",
+                    "name": "SIM Copy"
+                  },
+                  {
+                    "code": "SIM_Type_BCC",
+                    "id": "8361614",
+                    "name": "SIM Type",
+                    "defaultValue": "USIM",
+                    "value": "USIM"
+                  },
+                  {
+                    "code": "Store_ID_BCC",
+                    "id": "8361534",
+                    "name": "Store ID"
+                  },
+                  {
+                    "code": "Store_Type",
+                    "id": "8411144",
+                    "name": "Store Type"
+                  },
+                  {
+                    "code": "SIM_Serial_Number",
+                    "id": "8613024",
+                    "name": "SIM Serial Number"
+                  },
+                  {
+                    "code": "RLC_IMSI",
+                    "id": "132395",
+                    "name": "IMSI"
+                  },
+                  {
+                    "code": "PUK_BCC",
+                    "id": "8361964",
+                    "name": "PUK"
+                  },
+                  {
+                    "code": "SIM_Brand_BCC",
+                    "id": "8362104",
+                    "name": "SIM Brand"
+                  },
+                  {
+                    "code": "PPIN_Initial_Credit_BCC",
+                    "id": "8362114",
+                    "name": "PPIN Initial Recharge"
+                  },
+                  {
+                    "code": "SIM_Pack_Type_BCC",
+                    "id": "8362124",
+                    "name": "SIM Pack Type"
+                  },
+                  {
+                    "code": "Initial_Recharge_BCC",
+                    "id": "8362134",
+                    "name": "Initial Recharge"
+                  },
+                  {
+                    "code": "Is_Reserved",
+                    "id": "8411174",
+                    "name": "Is Reserved",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Old_IMSI_BCC",
+                    "id": "8571624",
+                    "name": "Old IMSI"
+                  },
+                  {
+                    "code": "Reservation_ID",
+                    "id": "8411124",
+                    "name": "Reservation ID"
+                  },
+                  {
+                    "code": "SKU_BCC",
+                    "id": "8361474",
+                    "name": "SKU",
+                    "value": "200641"
+                  },
+                  {
+                    "code": "Temp_IMSI_BCC",
+                    "id": "8562024",
+                    "name": "Temporary IMSI"
+                  },
+                  {
+                    "code": "LOB_BCC",
+                    "id": "8831424",
+                    "name": "LOB",
+                    "value": "Mobile_Main_BCC"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34410124",
+                    "name": "SIM Card Technical Offer",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "SIM Card Technical Offer",
+                    "type": "AD",
+                    "includeByDefault": "M",
+                    "catalogId": "8556824",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Mobile_Main_BCC": {
+                "name": "Mobile Main",
+                "code": "Mobile_Main_BCC",
+                "productId": "100104501",
+                "parentProductID": "100104501",
+                "productSpecId": "8375254",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8371804",
+                "attributes": [
+                  {
+                    "code": "Anytime_Trade_Up_Eligible_BCC",
+                    "id": "10173231",
+                    "name": "Eligible for Trade Up",
+                    "defaultValue": "N",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "Apply_RC_Indicator_EBCC",
+                    "id": "15583565",
+                    "name": "Apply RC Indicator",
+                    "defaultValue": "Y",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "Barring_Password_BCC",
+                    "id": "8629924",
+                    "name": "Barring Password"
+                  },
+                  {
+                    "code": "Campaign_Id",
+                    "id": "8829484",
+                    "name": "CampaignId"
+                  },
+                  {
+                    "code": "Cash_by_Optus",
+                    "id": "8398114",
+                    "name": "Optus Pay",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Customer_Type_BCC",
+                    "id": "9009901",
+                    "name": "Customer Type"
+                  },
+                  {
+                    "code": "Default_Excess_Data_Charges_BCC",
+                    "id": "33441685",
+                    "name": "Default Excess Data Charges",
+                    "defaultValue": "ON",
+                    "value": "OFF"
+                  },
+                  {
+                    "code": "EPL_Prepaid_History_Indicator_BCC",
+                    "id": "20854351",
+                    "name": "EPL Prepaid History Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Linkage_ID_BCC",
+                    "id": "8571214",
+                    "name": "Linkage ID",
+                    "value": "1006273"
+                  },
+                  {
+                    "code": "MSN_List_ID_BCC",
+                    "id": "33314753",
+                    "name": "MSN List ID"
+                  },
+                  {
+                    "code": "MSN_Number_Pool_Type_EBCC",
+                    "id": "32092353",
+                    "name": "MSN Number Pool Type",
+                    "defaultValue": "Mobile",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Main_Original_Plan_Family_BCC",
+                    "id": "10173221",
+                    "name": "Main Original Plan Family",
+                    "value": "Optus Choice 2019"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Accessory_BCC",
+                    "id": "10502837",
+                    "name": "Month to Accelerate for Previous  Accessory"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Contract_BCC",
+                    "id": "10502817",
+                    "name": "Month to Accelerate for Previous Contract"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Device_BCC",
+                    "id": "10502827",
+                    "name": "Month to Accelerate for Previous Device"
+                  },
+                  {
+                    "code": "Multiservice_GroupID_BCC",
+                    "id": "33358353",
+                    "name": "Multi-Service Group ID"
+                  },
+                  {
+                    "code": "Non_Direct_Debit_Fee_Waiver",
+                    "id": "10166761",
+                    "name": "Non-Direct Debit Fee Waiver",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Only_Physical_mail",
+                    "id": "8806084",
+                    "name": "Only Physical mail",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Original_MSN_Type_EBCC",
+                    "id": "32133303",
+                    "name": "Original MSN Type"
+                  },
+                  {
+                    "code": "Override_Excess_Data_Charges_Indicator_BCC",
+                    "id": "33441695",
+                    "name": "Override Excess Data Charges Indicator",
+                    "defaultValue": "N",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "PCRF_Policy_Change_EBCC",
+                    "id": "32425473",
+                    "name": "PCRF Policy Change",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "PPP_Offer_Counterr_BCC",
+                    "id": "20830191",
+                    "name": "PPP Offer Counter"
+                  },
+                  {
+                    "code": "Paper_Invoice_Fee_Waiver",
+                    "id": "8422894",
+                    "name": "Paper Invoice Fee Waiver",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Tech_Fund_Amount_BCC",
+                    "id": "8398124",
+                    "name": "Tech Fund Amount"
+                  },
+                  {
+                    "code": "Timezone_Offeset_BCC",
+                    "id": "8959741",
+                    "name": "Timezone Offeset"
+                  },
+                  {
+                    "code": "RLC_MSISDN",
+                    "id": "2409309",
+                    "name": "MSN",
+                    "value": "0410223605"
+                  },
+                  {
+                    "code": "MSN_Type_BCC",
+                    "id": "8361384",
+                    "name": "MSN Type",
+                    "defaultValue": "Regular",
+                    "value": "Regular"
+                  },
+                  {
+                    "code": "Subscription_Type_BCC",
+                    "id": "8361674",
+                    "name": "Subscription Type",
+                    "value": "Postpaid"
+                  },
+                  {
+                    "code": "Product_Type_BCC",
+                    "id": "8361684",
+                    "name": "Product Type",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Migration_Indicator_BCC",
+                    "id": "8361394",
+                    "name": "Migration Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Nick_Name_BCC",
+                    "id": "8361904",
+                    "name": "Nickname"
+                  },
+                  {
+                    "code": "Delivery_Method_BCC",
+                    "id": "8361404",
+                    "name": "Delivery Method",
+                    "value": "Deliver to customer"
+                  },
+                  {
+                    "code": "Delivery_Mode_BCC",
+                    "id": "8361414",
+                    "name": "Delivery Mode",
+                    "defaultValue": "Standard Delivery All Day",
+                    "value": "Standard Delivery All Day"
+                  },
+                  {
+                    "code": "Change_MSN_Counter_BCC",
+                    "id": "8362164",
+                    "name": "Change MSN Counter",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "TemporaryVoiceLineMSISDN",
+                    "id": "3006702",
+                    "name": "Temporary MSISDN"
+                  },
+                  {
+                    "code": "Porting_Request_Indicator",
+                    "id": "8396104",
+                    "name": "Porting Request Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Allocated_Number",
+                    "id": "8393694",
+                    "name": "Allocated Number"
+                  },
+                  {
+                    "code": "Contact_ID",
+                    "id": "8441094",
+                    "name": "Contact ID",
+                    "value": "1975"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34408824",
+                    "name": "Mobile Postpaid Technical Price Plan",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Defines the primary event distribution for the Mobile service",
+                    "type": "PR",
+                    "includeByDefault": "M",
+                    "catalogId": "8367184",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34408884",
+                    "name": "Suspension Fee - customer request",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Suspension Fee - customer request",
+                    "type": "AD",
+                    "includeByDefault": "D",
+                    "catalogId": "8474754",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Plan_BCC": {
+                "name": "Plan",
+                "code": "Plan_BCC",
+                "productId": "100104505",
+                "parentProductID": "100104501",
+                "productSpecId": "8375224",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372374",
+                "totalRecurringPrice": {
+                  "currency": "AUD",
+                  "originalAmount": 39.0,
+                  "finalAmount": 39.0,
+                  "finalAmountIncludingTax": 39.0,
+                  "finalTaxAmount": 0.0,
+                  "discountAmount": 0.0,
+                  "discountPercentage": 0.0,
+                  "frequencyUnit": "M",
+                  "finalAmountForMonth": 39.0,
+                  "finalAmountIncludingTaxForMonth": 39.0
+                },
+                "attributes": [
+                  {
+                    "code": "Plan_ID_Change_Fee_BCC",
+                    "id": "10268507",
+                    "name": "Plan ID Change Fee",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "SL_Billing_Service_Type_EBCC",
+                    "id": "31829183",
+                    "name": "SL Billing Service Type"
+                  },
+                  {
+                    "code": "Validation_Touch_Reference_Number_BCC",
+                    "id": "10486427",
+                    "name": "Validation Touch Reference Number"
+                  },
+                  {
+                    "code": "ise_activation_required_BCC",
+                    "id": "20608541",
+                    "name": "ise_activation_required"
+                  },
+                  {
+                    "code": "Group_ID_BCC",
+                    "id": "8362074",
+                    "name": "Pooling Group ID"
+                  },
+                  {
+                    "code": "Pooling_Cap_Amount_BCC",
+                    "id": "8362084",
+                    "name": "Pooling Cap Amount"
+                  },
+                  {
+                    "code": "PPIN_Product_ID_BCC",
+                    "id": "8630174",
+                    "name": "PPIN Product ID",
+                    "value": "00175"
+                  },
+                  {
+                    "code": "PPIN_Service_Provider_ID_BCC",
+                    "id": "8601214",
+                    "name": "PPIN Service Provider ID",
+                    "value": "501"
+                  },
+                  {
+                    "code": "PPIN_Subscription_Plan_Type_BCC",
+                    "id": "8630184",
+                    "name": "PPIN Subscription Plan Type",
+                    "value": "501"
+                  },
+                  {
+                    "code": "Plan_Offer_ID_BCC",
+                    "id": "8630354",
+                    "name": "Plan Offer ID",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Routing_Category_BCC",
+                    "id": "8601204",
+                    "name": "Routing Category",
+                    "value": "0"
+                  },
+                  {
+                    "code": "Validation_DVS_Reference_Number_BCC",
+                    "id": "9087931",
+                    "name": "Validation DVS Reference Number"
+                  },
+                  {
+                    "code": "Validation_ID_Types_BCC",
+                    "id": "9087921",
+                    "name": "Validation ID Types"
+                  },
+                  {
+                    "code": "Validation_Method_BCC",
+                    "id": "9087911",
+                    "name": "Validation Method"
+                  },
+                  {
+                    "code": "Validation_Prepaid_Type_BCC",
+                    "id": "9087941",
+                    "name": "Validation Prepaid Type"
+                  },
+                  {
+                    "code": "Validation_Status_BCC",
+                    "id": "9087901",
+                    "name": "Validation Status"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409384",
+                    "name": "$39 Optus Choice Small(Nov 19)",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 39.0,
+                      "finalAmount": 39.0,
+                      "finalAmountIncludingTax": 39.0,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "frequencyUnit": "M",
+                      "finalAmountForMonth": 39.0,
+                      "finalAmountIncludingTaxForMonth": 39.0
+                    },
+                    "description": "$39 Optus Choice Small(Nov 19)",
+                    "type": "BS",
+                    "allowedActions": ["RM"],
+                    "includeByDefault": "M",
+                    "catalogId": "34401184",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Contract": {
+                "name": "Contract",
+                "code": "Contract",
+                "productId": "100104507",
+                "parentProductID": "100104505",
+                "productSpecId": "8375204",
+                "parentProductSpecContainmentID": "8375224",
+                "catalogID": "8371834",
+                "attributes": [
+                  {
+                    "code": "Days_to_Consider_for_Penalty_BCC",
+                    "id": "10171711",
+                    "name": "Days to Consider for Penalty",
+                    "defaultValue": "-1",
+                    "value": "30"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Contract_BCC",
+                    "id": "10502817",
+                    "name": "Month to Accelerate for Previous Contract"
+                  },
+                  {
+                    "code": "Original_Plan_Family_BCC",
+                    "id": "9811901",
+                    "name": "Original Plan Family"
+                  },
+                  {
+                    "code": "Penalty_Waive_Indicator_BCC",
+                    "id": "10164811",
+                    "name": "Penalty Waive Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "RLC_Plan ID",
+                    "id": "737425719",
+                    "name": "Plan ID",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Contract_Duration_BCC",
+                    "id": "8361424",
+                    "name": "Contract Duration",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Contract_Start_Date_BCC",
+                    "id": "8361434",
+                    "name": "Contract Start Date",
+                    "value": "1602527399000"
+                  },
+                  {
+                    "code": "Contract_End_Date_BCC",
+                    "id": "8361444",
+                    "name": "Contract End Date",
+                    "value": "1605033000000"
+                  },
+                  {
+                    "code": "ETF_of_Plan",
+                    "id": "8412994",
+                    "name": "ETF of Plan"
+                  },
+                  {
+                    "code": "Previous_contract_duration",
+                    "id": "8413004",
+                    "name": "Previous contract duration"
+                  },
+                  {
+                    "code": "Voluntary_Suspension_Contract_Counter_BCC",
+                    "id": "8362094",
+                    "name": "Voluntary Suspension Counter",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "Recontract_Indicator_",
+                    "id": "8413024",
+                    "name": "Recontract Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Original_Contracted_Plan_Penalty_RC_BCC",
+                    "id": "8361914",
+                    "name": "Original Contracted Plan Penalty RC"
+                  },
+                  {
+                    "code": "Original_Contracted_Plan_Rank_BCC",
+                    "id": "8361924",
+                    "name": "Original Contracted Plan Rank"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409394",
+                    "name": "Early Termination Fee",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "The Early Termination Feer (billing offer) which will be used to apply penalty when applicable.",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8395944",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "defaultQuantity": 0,
+                "selected": true
+              },
+              "Roaming_BCC": {
+                "name": "Roaming",
+                "code": "Roaming_BCC",
+                "productId": "100104513",
+                "parentProductID": "100104501",
+                "productSpecId": "34408654",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372224",
+                "attributes": [
+                  {
+                    "code": "Bar_Incoming_Voice_when_roaming_EBCC",
+                    "id": "32148243",
+                    "name": "Bar Incoming Voice when roaming",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Enable_Roaming_Pass_BCC",
+                    "id": "20583961",
+                    "name": "Enable Roaming Pass",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "RoamingWindowEndTime_BCC",
+                    "id": "20685741",
+                    "name": "RoamingWindowEndTime"
+                  },
+                  {
+                    "code": "SL_Billing_Service_Type_EBCC",
+                    "id": "31829183",
+                    "name": "SL Billing Service Type"
+                  },
+                  {
+                    "code": "Roaming_Voice_BCC",
+                    "id": "8362034",
+                    "name": "Roaming Voice",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_Data_BCC",
+                    "id": "8362044",
+                    "name": "Roaming Data",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_SMS_BCC",
+                    "id": "8362054",
+                    "name": "Roaming SMS",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_Video_BCC",
+                    "id": "8630134",
+                    "name": "Roaming Video",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_area_BCC",
+                    "id": "8601234",
+                    "name": "Roaming Area",
+                    "defaultValue": "International",
+                    "value": "International"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409804",
+                    "name": "Included Roaming Value",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Included Roaming Value",
+                    "type": "DS",
+                    "includeByDefault": "M",
+                    "catalogId": "10384067",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34409794",
+                    "name": "Optus Roaming Pass",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Roaming Pass",
+                    "type": "AD",
+                    "allowedActions": ["RM"],
+                    "includeByDefault": "M",
+                    "catalogId": "20603841",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              }
+            },
+            "lineOfBusiness": "WS",
+            "productId": "100104501",
+            "productOfferingId": "34410384",
+            "productOfferingProductSpecId": "34408784",
+            "productSpecCode": "Mobile",
+            "productOfferingCode": "39OptusChoiceSmallNov19",
+            "productOfferingName": "$39 Optus Choice Small(Nov 19)",
+            "productOfferingDescription": "$39 Optus Choice Small(Nov 19)",
+            "compatibilityStatus": "COMPATIBLE",
+            "barId": "333334734",
+            "quoteStatus": "S",
+            "totalRecurringPriceCust": {
+              "currency": "AUD",
+              "originalAmount": 39.0,
+              "finalAmount": 138.9,
+              "finalAmountIncludingTax": 138.9,
+              "finalTaxAmount": 0.0,
+              "discountAmount": 0.0,
+              "discountPercentage": 0.0,
+              "frequencyUnit": "M",
+              "finalAmountForMonth": 138.9,
+              "finalAmountIncludingTaxForMonth": 138.9
+            },
+            "serviceId": "0410223605",
+            "orderActionStatus": "NA",
+            "productOrderItemId": "71002",
+            "productOrderItemType": "PR",
+            "currentOrderActionStatus": "NE"
+          }
+        ],
+        "duration": "1",
+        "totalCharge": "1237.8",
+        "totalMonthlyCharge": "277.8",
+        "totalRecurringPriceCust": {
+          "currency": "AUD",
+          "originalAmount": 39.0,
+          "finalAmount": 138.9,
+          "finalAmountIncludingTax": 138.9,
+          "finalTaxAmount": 0.0,
+          "discountAmount": 0.0,
+          "discountPercentage": 0.0,
+          "frequencyUnit": "M",
+          "finalAmountForMonth": 138.9,
+          "finalAmountIncludingTaxForMonth": 138.9
+        },
+        "totalContractRecurringCalculatedPrice": {
+          "currency": "AUD",
+          "originalAmount": 39.0,
+          "finalAmount": 3333.6,
+          "finalAmountIncludingTax": 138.9,
+          "finalTaxAmount": 0.0,
+          "discountAmount": 0.0,
+          "discountPercentage": 0.0,
+          "frequencyUnit": "M",
+          "totalInstallmentMonths": 24,
+          "finalAmountForMonth": 138.9,
+          "finalAmountIncludingTaxForMonth": 138.9
+        }
+      },
+      {
+        "bundle": false,
+        "id": "34410384",
+        "name": "$39 Optus Choice Small(Nov 19)",
+        "productOfferingInstanceId": "100104528",
+        "products": [
+          {
+            "transactionId": "b061e0db-a366-4b85-81f0-e73158b6d396",
+            "displayItems": {
+              "Device_BCC": {
+                "name": "Apple iPh11 64BK",
+                "code": "Device_BCC",
+                "productId": "100104538",
+                "parentProductID": "100104537",
+                "productSpecId": "34408584",
+                "parentProductSpecContainmentID": "34408574",
+                "catalogID": "8371864",
+                "totalRecurringPrice": {
+                  "currency": "AUD",
+                  "originalAmount": 0.0,
+                  "finalAmount": 99.9,
+                  "finalAmountIncludingTax": 99.9,
+                  "finalTaxAmount": 0.0,
+                  "discountAmount": 0.0,
+                  "discountPercentage": 0.0,
+                  "finalAmountForMonth": 99.9,
+                  "finalAmountIncludingTaxForMonth": 99.9
+                },
+                "attributes": [
+                  {
+                    "code": "5G_Enabled_Handset",
+                    "id": "20851961",
+                    "name": "5G Enabled Device",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Device_Choice_BCC",
+                    "id": "20116001",
+                    "name": "Device Choice"
+                  },
+                  {
+                    "code": "Device_Repayment_Waive_Indicator_BCC",
+                    "id": "10164801",
+                    "name": "Device Repayment Waive Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Flex_Upgrade_Indicator_BCC",
+                    "id": "20549151",
+                    "name": "Flex Upgrade Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Leased_Grace_Period_BCC",
+                    "id": "20115901",
+                    "name": "Leased Grace Period",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "MTPOS_Availability_BCC",
+                    "id": "11135021",
+                    "name": "MTPOS Availability BCC",
+                    "defaultValue": "AV",
+                    "value": "AV"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_BCC",
+                    "id": "10171401",
+                    "name": "Month to Accelerate",
+                    "defaultValue": "1",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Store_Type",
+                    "id": "8411144",
+                    "name": "Store Type"
+                  },
+                  {
+                    "code": "Trade_Up_BCC",
+                    "id": "10171701",
+                    "name": "Trade Up",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Equipment_CID_BCC",
+                    "id": "8361464",
+                    "name": "Equipment CID",
+                    "value": "34347764"
+                  },
+                  {
+                    "code": "Acquistion_Type_BCC",
+                    "id": "8361524",
+                    "name": "Acquisition Type",
+                    "defaultValue": "With Plan",
+                    "value": "With Plan"
+                  },
+                  {
+                    "code": "IMEI_BCC",
+                    "id": "8361514",
+                    "name": "IMEI"
+                  },
+                  {
+                    "code": "Installment_Months_BCC",
+                    "id": "8412814",
+                    "name": "Instalment Months",
+                    "value": "12"
+                  },
+                  {
+                    "code": "Model_BCC",
+                    "id": "8361494",
+                    "name": "Model",
+                    "value": "iPhone 11"
+                  },
+                  {
+                    "code": "Installment_End_Date_BCC",
+                    "id": "8361944",
+                    "name": "Instalment End Date",
+                    "value": "1633890600000"
+                  },
+                  {
+                    "code": "Device_Name_BCC",
+                    "id": "8403154",
+                    "name": "Device Name",
+                    "value": "Apple iPh11 64BK"
+                  },
+                  {
+                    "code": "Warranty_Duration_BCC",
+                    "id": "8361544",
+                    "name": "Warranty Duration",
+                    "value": "12"
+                  },
+                  {
+                    "code": "Warranty_End_Date_BCC",
+                    "id": "8361564",
+                    "name": "Warranty End Date",
+                    "value": "1605033000000"
+                  },
+                  {
+                    "code": "SIM_Type_BCC",
+                    "id": "8361614",
+                    "name": "SIM Type",
+                    "value": "Nano SIM + eSIM"
+                  },
+                  {
+                    "code": "Device_Type_BCC",
+                    "id": "8361504",
+                    "name": "Device Type",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Store_ID_BCC",
+                    "id": "8361534",
+                    "name": "Store ID"
+                  },
+                  {
+                    "code": "Manufacturer_Warranty_Duration_BCC",
+                    "id": "8362004",
+                    "name": "Manufacturer Warranty Duration",
+                    "value": "N/A"
+                  },
+                  {
+                    "code": "Warranty_Start_Date_BCC",
+                    "id": "8361554",
+                    "name": "Warranty Start Date",
+                    "value": "1602441000000"
+                  },
+                  {
+                    "code": "Contract_Duration_BCC",
+                    "id": "8361424",
+                    "name": "Contract Duration",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Plan_Id_BCC",
+                    "id": "8362014",
+                    "name": "Plan Id",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Installment_Start_Date_BCC",
+                    "id": "8361934",
+                    "name": "Instalment Start Date",
+                    "value": "1602527399000"
+                  },
+                  {
+                    "code": "SKU_BCC",
+                    "id": "8361474",
+                    "name": "SKU",
+                    "value": "2113021"
+                  },
+                  {
+                    "code": "Reservation_ID",
+                    "id": "8411124",
+                    "name": "Reservation ID"
+                  },
+                  {
+                    "code": "Brand_BCC",
+                    "id": "8361484",
+                    "name": "Brand",
+                    "value": "Apple"
+                  },
+                  {
+                    "code": "Is_Reserved",
+                    "id": "8411174",
+                    "name": "Is Reserved",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Cash_by_Optus_enabled",
+                    "id": "9088371",
+                    "name": "Optus Pay enabled",
+                    "value": "No"
+                  },
+                  {
+                    "code": "VoLTE_Enable_Device",
+                    "id": "8362404",
+                    "name": "VoLTE Enable Device",
+                    "defaultValue": "No",
+                    "value": "Yes"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409044",
+                    "name": "Device Credit Charges",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 0.0,
+                      "finalAmount": 0.0,
+                      "finalAmountIncludingTax": 0.0,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "totalInstallmentMonths": 12,
+                      "finalAmountForMonth": 0.0,
+                      "finalAmountIncludingTaxForMonth": 0.0
+                    },
+                    "description": "Device Credit Charges",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8398644",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34409054",
+                    "name": "Device Repayment Charges",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 0.0,
+                      "finalAmount": 1198.8,
+                      "finalAmountIncludingTax": 99.9,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "totalInstallmentMonths": 12,
+                      "finalAmountForMonth": 99.9,
+                      "finalAmountIncludingTaxForMonth": 99.9
+                    },
+                    "description": "Device Repayment Charges",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8398484",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "defaultQuantity": 0,
+                "selected": true
+              },
+              "SIM_BCC": {
+                "name": "SIM",
+                "code": "SIM_BCC",
+                "productId": "100104531",
+                "parentProductID": "100104529",
+                "productSpecId": "8375134",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372014",
+                "attributes": [
+                  {
+                    "code": "BYO_SIM_BCC",
+                    "id": "11035262",
+                    "name": "BYO SIM",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "SIM_Category_BCC",
+                    "id": "20850741",
+                    "name": "SIM Category"
+                  },
+                  {
+                    "code": "SIM_Copy_BCC",
+                    "id": "8396004",
+                    "name": "SIM Copy"
+                  },
+                  {
+                    "code": "SIM_Type_BCC",
+                    "id": "8361614",
+                    "name": "SIM Type",
+                    "defaultValue": "USIM",
+                    "value": "USIM"
+                  },
+                  {
+                    "code": "Store_ID_BCC",
+                    "id": "8361534",
+                    "name": "Store ID"
+                  },
+                  {
+                    "code": "Store_Type",
+                    "id": "8411144",
+                    "name": "Store Type"
+                  },
+                  {
+                    "code": "SIM_Serial_Number",
+                    "id": "8613024",
+                    "name": "SIM Serial Number"
+                  },
+                  {
+                    "code": "RLC_IMSI",
+                    "id": "132395",
+                    "name": "IMSI"
+                  },
+                  {
+                    "code": "PUK_BCC",
+                    "id": "8361964",
+                    "name": "PUK"
+                  },
+                  {
+                    "code": "SIM_Brand_BCC",
+                    "id": "8362104",
+                    "name": "SIM Brand"
+                  },
+                  {
+                    "code": "PPIN_Initial_Credit_BCC",
+                    "id": "8362114",
+                    "name": "PPIN Initial Recharge"
+                  },
+                  {
+                    "code": "SIM_Pack_Type_BCC",
+                    "id": "8362124",
+                    "name": "SIM Pack Type"
+                  },
+                  {
+                    "code": "Initial_Recharge_BCC",
+                    "id": "8362134",
+                    "name": "Initial Recharge"
+                  },
+                  {
+                    "code": "Is_Reserved",
+                    "id": "8411174",
+                    "name": "Is Reserved",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Old_IMSI_BCC",
+                    "id": "8571624",
+                    "name": "Old IMSI"
+                  },
+                  {
+                    "code": "Reservation_ID",
+                    "id": "8411124",
+                    "name": "Reservation ID"
+                  },
+                  {
+                    "code": "SKU_BCC",
+                    "id": "8361474",
+                    "name": "SKU",
+                    "value": "200641"
+                  },
+                  {
+                    "code": "Temp_IMSI_BCC",
+                    "id": "8562024",
+                    "name": "Temporary IMSI"
+                  },
+                  {
+                    "code": "LOB_BCC",
+                    "id": "8831424",
+                    "name": "LOB",
+                    "value": "Mobile_Main_BCC"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34410124",
+                    "name": "SIM Card Technical Offer",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "SIM Card Technical Offer",
+                    "type": "AD",
+                    "includeByDefault": "M",
+                    "catalogId": "8556824",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Mobile_Main_BCC": {
+                "name": "Mobile Main",
+                "code": "Mobile_Main_BCC",
+                "productId": "100104529",
+                "parentProductID": "100104529",
+                "productSpecId": "8375254",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8371804",
+                "attributes": [
+                  {
+                    "code": "Anytime_Trade_Up_Eligible_BCC",
+                    "id": "10173231",
+                    "name": "Eligible for Trade Up",
+                    "defaultValue": "N",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "Apply_RC_Indicator_EBCC",
+                    "id": "15583565",
+                    "name": "Apply RC Indicator",
+                    "defaultValue": "Y",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "Barring_Password_BCC",
+                    "id": "8629924",
+                    "name": "Barring Password"
+                  },
+                  {
+                    "code": "Campaign_Id",
+                    "id": "8829484",
+                    "name": "CampaignId"
+                  },
+                  {
+                    "code": "Cash_by_Optus",
+                    "id": "8398114",
+                    "name": "Optus Pay",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Customer_Type_BCC",
+                    "id": "9009901",
+                    "name": "Customer Type"
+                  },
+                  {
+                    "code": "Default_Excess_Data_Charges_BCC",
+                    "id": "33441685",
+                    "name": "Default Excess Data Charges",
+                    "defaultValue": "ON",
+                    "value": "OFF"
+                  },
+                  {
+                    "code": "EPL_Prepaid_History_Indicator_BCC",
+                    "id": "20854351",
+                    "name": "EPL Prepaid History Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Linkage_ID_BCC",
+                    "id": "8571214",
+                    "name": "Linkage ID",
+                    "value": "1006274"
+                  },
+                  {
+                    "code": "MSN_List_ID_BCC",
+                    "id": "33314753",
+                    "name": "MSN List ID"
+                  },
+                  {
+                    "code": "MSN_Number_Pool_Type_EBCC",
+                    "id": "32092353",
+                    "name": "MSN Number Pool Type",
+                    "defaultValue": "Mobile",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Main_Original_Plan_Family_BCC",
+                    "id": "10173221",
+                    "name": "Main Original Plan Family",
+                    "value": "Optus Choice 2019"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Accessory_BCC",
+                    "id": "10502837",
+                    "name": "Month to Accelerate for Previous  Accessory"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Contract_BCC",
+                    "id": "10502817",
+                    "name": "Month to Accelerate for Previous Contract"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Device_BCC",
+                    "id": "10502827",
+                    "name": "Month to Accelerate for Previous Device"
+                  },
+                  {
+                    "code": "Multiservice_GroupID_BCC",
+                    "id": "33358353",
+                    "name": "Multi-Service Group ID"
+                  },
+                  {
+                    "code": "Non_Direct_Debit_Fee_Waiver",
+                    "id": "10166761",
+                    "name": "Non-Direct Debit Fee Waiver",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Only_Physical_mail",
+                    "id": "8806084",
+                    "name": "Only Physical mail",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "Original_MSN_Type_EBCC",
+                    "id": "32133303",
+                    "name": "Original MSN Type"
+                  },
+                  {
+                    "code": "Override_Excess_Data_Charges_Indicator_BCC",
+                    "id": "33441695",
+                    "name": "Override Excess Data Charges Indicator",
+                    "defaultValue": "N",
+                    "value": "Y"
+                  },
+                  {
+                    "code": "PCRF_Policy_Change_EBCC",
+                    "id": "32425473",
+                    "name": "PCRF Policy Change",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "PPP_Offer_Counterr_BCC",
+                    "id": "20830191",
+                    "name": "PPP Offer Counter"
+                  },
+                  {
+                    "code": "Paper_Invoice_Fee_Waiver",
+                    "id": "8422894",
+                    "name": "Paper Invoice Fee Waiver",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Tech_Fund_Amount_BCC",
+                    "id": "8398124",
+                    "name": "Tech Fund Amount"
+                  },
+                  {
+                    "code": "Timezone_Offeset_BCC",
+                    "id": "8959741",
+                    "name": "Timezone Offeset"
+                  },
+                  {
+                    "code": "RLC_MSISDN",
+                    "id": "2409309",
+                    "name": "MSN",
+                    "value": "0410223606"
+                  },
+                  {
+                    "code": "MSN_Type_BCC",
+                    "id": "8361384",
+                    "name": "MSN Type",
+                    "defaultValue": "Regular",
+                    "value": "Regular"
+                  },
+                  {
+                    "code": "Subscription_Type_BCC",
+                    "id": "8361674",
+                    "name": "Subscription Type",
+                    "value": "Postpaid"
+                  },
+                  {
+                    "code": "Product_Type_BCC",
+                    "id": "8361684",
+                    "name": "Product Type",
+                    "value": "Mobile"
+                  },
+                  {
+                    "code": "Migration_Indicator_BCC",
+                    "id": "8361394",
+                    "name": "Migration Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Nick_Name_BCC",
+                    "id": "8361904",
+                    "name": "Nickname"
+                  },
+                  {
+                    "code": "Delivery_Method_BCC",
+                    "id": "8361404",
+                    "name": "Delivery Method",
+                    "value": "Deliver to customer"
+                  },
+                  {
+                    "code": "Delivery_Mode_BCC",
+                    "id": "8361414",
+                    "name": "Delivery Mode",
+                    "defaultValue": "Standard Delivery All Day",
+                    "value": "Standard Delivery All Day"
+                  },
+                  {
+                    "code": "Change_MSN_Counter_BCC",
+                    "id": "8362164",
+                    "name": "Change MSN Counter",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "TemporaryVoiceLineMSISDN",
+                    "id": "3006702",
+                    "name": "Temporary MSISDN"
+                  },
+                  {
+                    "code": "Porting_Request_Indicator",
+                    "id": "8396104",
+                    "name": "Porting Request Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Allocated_Number",
+                    "id": "8393694",
+                    "name": "Allocated Number"
+                  },
+                  {
+                    "code": "Contact_ID",
+                    "id": "8441094",
+                    "name": "Contact ID",
+                    "value": "1975"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34408824",
+                    "name": "Mobile Postpaid Technical Price Plan",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Defines the primary event distribution for the Mobile service",
+                    "type": "PR",
+                    "includeByDefault": "M",
+                    "catalogId": "8367184",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34408884",
+                    "name": "Suspension Fee - customer request",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Suspension Fee - customer request",
+                    "type": "AD",
+                    "includeByDefault": "D",
+                    "catalogId": "8474754",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Plan_BCC": {
+                "name": "Plan",
+                "code": "Plan_BCC",
+                "productId": "100104533",
+                "parentProductID": "100104529",
+                "productSpecId": "8375224",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372374",
+                "totalRecurringPrice": {
+                  "currency": "AUD",
+                  "originalAmount": 39.0,
+                  "finalAmount": 39.0,
+                  "finalAmountIncludingTax": 39.0,
+                  "finalTaxAmount": 0.0,
+                  "discountAmount": 0.0,
+                  "discountPercentage": 0.0,
+                  "frequencyUnit": "M",
+                  "finalAmountForMonth": 39.0,
+                  "finalAmountIncludingTaxForMonth": 39.0
+                },
+                "attributes": [
+                  {
+                    "code": "Plan_ID_Change_Fee_BCC",
+                    "id": "10268507",
+                    "name": "Plan ID Change Fee",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "SL_Billing_Service_Type_EBCC",
+                    "id": "31829183",
+                    "name": "SL Billing Service Type"
+                  },
+                  {
+                    "code": "Validation_Touch_Reference_Number_BCC",
+                    "id": "10486427",
+                    "name": "Validation Touch Reference Number"
+                  },
+                  {
+                    "code": "ise_activation_required_BCC",
+                    "id": "20608541",
+                    "name": "ise_activation_required"
+                  },
+                  {
+                    "code": "Group_ID_BCC",
+                    "id": "8362074",
+                    "name": "Pooling Group ID",
+                    "value": "5401"
+                  },
+                  {
+                    "code": "Pooling_Cap_Amount_BCC",
+                    "id": "8362084",
+                    "name": "Pooling Cap Amount"
+                  },
+                  {
+                    "code": "PPIN_Product_ID_BCC",
+                    "id": "8630174",
+                    "name": "PPIN Product ID",
+                    "value": "00175"
+                  },
+                  {
+                    "code": "PPIN_Service_Provider_ID_BCC",
+                    "id": "8601214",
+                    "name": "PPIN Service Provider ID",
+                    "value": "501"
+                  },
+                  {
+                    "code": "PPIN_Subscription_Plan_Type_BCC",
+                    "id": "8630184",
+                    "name": "PPIN Subscription Plan Type",
+                    "value": "501"
+                  },
+                  {
+                    "code": "Plan_Offer_ID_BCC",
+                    "id": "8630354",
+                    "name": "Plan Offer ID",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Routing_Category_BCC",
+                    "id": "8601204",
+                    "name": "Routing Category",
+                    "value": "0"
+                  },
+                  {
+                    "code": "Validation_DVS_Reference_Number_BCC",
+                    "id": "9087931",
+                    "name": "Validation DVS Reference Number"
+                  },
+                  {
+                    "code": "Validation_ID_Types_BCC",
+                    "id": "9087921",
+                    "name": "Validation ID Types"
+                  },
+                  {
+                    "code": "Validation_Method_BCC",
+                    "id": "9087911",
+                    "name": "Validation Method"
+                  },
+                  {
+                    "code": "Validation_Prepaid_Type_BCC",
+                    "id": "9087941",
+                    "name": "Validation Prepaid Type"
+                  },
+                  {
+                    "code": "Validation_Status_BCC",
+                    "id": "9087901",
+                    "name": "Validation Status"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409384",
+                    "name": "$39 Optus Choice Small(Nov 19)",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "totalRecurringPrice": {
+                      "currency": "AUD",
+                      "originalAmount": 39.0,
+                      "finalAmount": 39.0,
+                      "finalAmountIncludingTax": 39.0,
+                      "finalTaxAmount": 0.0,
+                      "discountAmount": 0.0,
+                      "discountPercentage": 0.0,
+                      "frequencyUnit": "M",
+                      "finalAmountForMonth": 39.0,
+                      "finalAmountIncludingTaxForMonth": 39.0
+                    },
+                    "description": "$39 Optus Choice Small(Nov 19)",
+                    "type": "BS",
+                    "allowedActions": ["RM"],
+                    "includeByDefault": "M",
+                    "catalogId": "34401184",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              },
+              "Contract": {
+                "name": "Contract",
+                "code": "Contract",
+                "productId": "100104535",
+                "parentProductID": "100104533",
+                "productSpecId": "8375204",
+                "parentProductSpecContainmentID": "8375224",
+                "catalogID": "8371834",
+                "attributes": [
+                  {
+                    "code": "Days_to_Consider_for_Penalty_BCC",
+                    "id": "10171711",
+                    "name": "Days to Consider for Penalty",
+                    "defaultValue": "-1",
+                    "value": "30"
+                  },
+                  {
+                    "code": "Month_to_Accelerate_for_Previous_Contract_BCC",
+                    "id": "10502817",
+                    "name": "Month to Accelerate for Previous Contract"
+                  },
+                  {
+                    "code": "Original_Plan_Family_BCC",
+                    "id": "9811901",
+                    "name": "Original Plan Family"
+                  },
+                  {
+                    "code": "Penalty_Waive_Indicator_BCC",
+                    "id": "10164811",
+                    "name": "Penalty Waive Indicator",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "RLC_Plan ID",
+                    "id": "737425719",
+                    "name": "Plan ID",
+                    "value": "34401184"
+                  },
+                  {
+                    "code": "Contract_Duration_BCC",
+                    "id": "8361424",
+                    "name": "Contract Duration",
+                    "value": "1"
+                  },
+                  {
+                    "code": "Contract_Start_Date_BCC",
+                    "id": "8361434",
+                    "name": "Contract Start Date",
+                    "value": "1602527399000"
+                  },
+                  {
+                    "code": "Contract_End_Date_BCC",
+                    "id": "8361444",
+                    "name": "Contract End Date",
+                    "value": "1605033000000"
+                  },
+                  {
+                    "code": "ETF_of_Plan",
+                    "id": "8412994",
+                    "name": "ETF of Plan"
+                  },
+                  {
+                    "code": "Previous_contract_duration",
+                    "id": "8413004",
+                    "name": "Previous contract duration"
+                  },
+                  {
+                    "code": "Voluntary_Suspension_Contract_Counter_BCC",
+                    "id": "8362094",
+                    "name": "Voluntary Suspension Counter",
+                    "defaultValue": "0",
+                    "value": "0"
+                  },
+                  {
+                    "code": "Recontract_Indicator_",
+                    "id": "8413024",
+                    "name": "Recontract Indicator",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Original_Contracted_Plan_Penalty_RC_BCC",
+                    "id": "8361914",
+                    "name": "Original Contracted Plan Penalty RC"
+                  },
+                  {
+                    "code": "Original_Contracted_Plan_Rank_BCC",
+                    "id": "8361924",
+                    "name": "Original Contracted Plan Rank"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409394",
+                    "name": "Early Termination Fee",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "The Early Termination Feer (billing offer) which will be used to apply penalty when applicable.",
+                    "type": "AD",
+                    "includeByDefault": "O",
+                    "catalogId": "8395944",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 0,
+                "defaultQuantity": 0,
+                "selected": true
+              },
+              "Roaming_BCC": {
+                "name": "Roaming",
+                "code": "Roaming_BCC",
+                "productId": "100104541",
+                "parentProductID": "100104529",
+                "productSpecId": "34408654",
+                "parentProductSpecContainmentID": "8375254",
+                "catalogID": "8372224",
+                "attributes": [
+                  {
+                    "code": "Bar_Incoming_Voice_when_roaming_EBCC",
+                    "id": "32148243",
+                    "name": "Bar Incoming Voice when roaming",
+                    "defaultValue": "No",
+                    "value": "No"
+                  },
+                  {
+                    "code": "Enable_Roaming_Pass_BCC",
+                    "id": "20583961",
+                    "name": "Enable Roaming Pass",
+                    "defaultValue": "N",
+                    "value": "N"
+                  },
+                  {
+                    "code": "RoamingWindowEndTime_BCC",
+                    "id": "20685741",
+                    "name": "RoamingWindowEndTime"
+                  },
+                  {
+                    "code": "SL_Billing_Service_Type_EBCC",
+                    "id": "31829183",
+                    "name": "SL Billing Service Type"
+                  },
+                  {
+                    "code": "Roaming_Voice_BCC",
+                    "id": "8362034",
+                    "name": "Roaming Voice",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_Data_BCC",
+                    "id": "8362044",
+                    "name": "Roaming Data",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_SMS_BCC",
+                    "id": "8362054",
+                    "name": "Roaming SMS",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_Video_BCC",
+                    "id": "8630134",
+                    "name": "Roaming Video",
+                    "defaultValue": "Yes",
+                    "value": "Yes"
+                  },
+                  {
+                    "code": "Roaming_area_BCC",
+                    "id": "8601234",
+                    "name": "Roaming Area",
+                    "defaultValue": "International",
+                    "value": "International"
+                  }
+                ],
+                "billingOffers": [
+                  {
+                    "productSpecPricingId": "34409804",
+                    "name": "Included Roaming Value",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Included Roaming Value",
+                    "type": "DS",
+                    "includeByDefault": "M",
+                    "catalogId": "10384067",
+                    "penalty": false,
+                    "creditIndicator": false
+                  },
+                  {
+                    "productSpecPricingId": "34409794",
+                    "name": "Optus Roaming Pass",
+                    "selected": true,
+                    "crossProductDiscount": false,
+                    "description": "Roaming Pass",
+                    "type": "AD",
+                    "allowedActions": ["RM"],
+                    "includeByDefault": "M",
+                    "catalogId": "20603841",
+                    "penalty": false,
+                    "creditIndicator": false
+                  }
+                ],
+                "maxQuantity": 1,
+                "minQuantity": 1,
+                "defaultQuantity": 1,
+                "selected": true
+              }
+            },
+            "lineOfBusiness": "WS",
+            "productId": "100104529",
+            "productOfferingId": "34410384",
+            "productOfferingProductSpecId": "34408784",
+            "productSpecCode": "Mobile",
+            "productOfferingCode": "39OptusChoiceSmallNov19",
+            "productOfferingName": "$39 Optus Choice Small(Nov 19)",
+            "productOfferingDescription": "$39 Optus Choice Small(Nov 19)",
+            "compatibilityStatus": "COMPATIBLE",
+            "barId": "333334734",
+            "quoteStatus": "S",
+            "totalRecurringPriceCust": {
+              "currency": "AUD",
+              "originalAmount": 39.0,
+              "finalAmount": 138.9,
+              "finalAmountIncludingTax": 138.9,
+              "finalTaxAmount": 0.0,
+              "discountAmount": 0.0,
+              "discountPercentage": 0.0,
+              "frequencyUnit": "M",
+              "finalAmountForMonth": 138.9,
+              "finalAmountIncludingTaxForMonth": 138.9
+            },
+            "serviceId": "0410223606",
+            "orderActionStatus": "NA",
+            "productOrderItemId": "71004",
+            "productOrderItemType": "PR",
+            "currentOrderActionStatus": "NE"
+          }
+        ],
+        "duration": "1",
+        "totalCharge": "1237.8",
+        "totalMonthlyCharge": "277.8",
+        "totalRecurringPriceCust": {
+          "currency": "AUD",
+          "originalAmount": 39.0,
+          "finalAmount": 138.9,
+          "finalAmountIncludingTax": 138.9,
+          "finalTaxAmount": 0.0,
+          "discountAmount": 0.0,
+          "discountPercentage": 0.0,
+          "frequencyUnit": "M",
+          "finalAmountForMonth": 138.9,
+          "finalAmountIncludingTaxForMonth": 138.9
+        },
+        "totalContractRecurringCalculatedPrice": {
+          "currency": "AUD",
+          "originalAmount": 39.0,
+          "finalAmount": 3333.6,
+          "finalAmountIncludingTax": 138.9,
+          "finalTaxAmount": 0.0,
+          "discountAmount": 0.0,
+          "discountPercentage": 0.0,
+          "frequencyUnit": "M",
+          "totalInstallmentMonths": 24,
+          "finalAmountForMonth": 138.9,
+          "finalAmountIncludingTaxForMonth": 138.9
+        }
+      }
+    ],
+    "orderDetail": {
+      "currentSalesChannel": "MSDL",
+      "status": "EX",
+      "dynamicAttributes": [
+        {
+          "attributeValue": "No",
+          "attributeName": "APPOINTMENT_CHARGE_INDICATOR"
+        },
+        {
+          "attributeValue": "kajal gaikwad",
+          "attributeName": "DealerName"
+        },
+        {
+          "attributeValue": "No",
+          "attributeName": "EARLY_RECONTRACT_INDICATOR"
+        },
+        {
+          "attributeValue": "No",
+          "attributeName": "INSTALLATION_CHARGE_INDICATOR"
+        },
+        {
+          "attributeValue": "Y",
+          "attributeName": "IsFirstSharedGroupCreated"
+        },
+        {
+          "attributeValue": "No",
+          "attributeName": "RELOCATION_INDICATOR"
+        },
+        {
+          "attributeValue": "POST",
+          "attributeName": "defaultPcnCategory"
+        },
+        {
+          "attributeValue": "333334734",
+          "attributeName": "defaultPcnID"
+        },
+        {
+          "attributeValue": "null",
+          "attributeName": "defaultPcnName"
+        },
+        {
+          "attributeValue": "NEW",
+          "attributeName": "flowType"
+        },
+        {
+          "attributeValue": "copFlowPostpaidSubscription",
+          "attributeName": "mrFlowType"
+        },
+        {
+          "attributeName": "DO_ORDER_REQUIRE_DELIVERY"
+        },
+        {
+          "attributeName": "CREDIT_CHECK_DELIVERY_ADDRESS"
+        },
+        {
+          "attributeName": "VESPA_TOKEN"
+        },
+        {
+          "attributeValue": "2397.6000000000004",
+          "attributeName": "TOTAL_OC_FOR_DEVICE"
+        },
+        {
+          "attributeValue": "true",
+          "attributeName": "IS_HCC_REQUEST_SENT"
+        },
+        {
+          "attributeValue": "N",
+          "attributeName": "AIRTIME_CONNECT"
+        },
+        {
+          "attributeName": "IS_DLVRY_ADDR_DIFF_FRM_CNTCT"
+        }
+      ]
+    },
+    "totalMonthlyCharges": "277.8",
+    "totalMonthlyChargesDuration": 1,
+    "contractGenerationIndicatorX9": true,
+    "totalRecurringPriceCust": {
+      "currency": "AUD",
+      "originalAmount": 78.0,
+      "finalAmount": 277.8,
+      "finalAmountIncludingTax": 277.8,
+      "finalTaxAmount": 0.0,
+      "discountAmount": 0.0,
+      "discountPercentage": 0.0,
+      "frequencyUnit": "M",
+      "finalAmountForMonth": 277.8,
+      "finalAmountIncludingTaxForMonth": 277.8
+    },
+    "totalContractRCPrice": {
+      "currency": "AUD",
+      "originalAmount": 78.0,
+      "finalAmount": 277.8,
+      "finalAmountIncludingTax": 277.8,
+      "finalTaxAmount": 0.0,
+      "discountAmount": 0.0,
+      "discountPercentage": 0.0,
+      "frequencyUnit": "M",
+      "finalAmountForMonth": 277.8,
+      "finalAmountIncludingTaxForMonth": 277.8
+    },
+    "totalCommitmentCharge": "2475.6000000000004",
+    "creditCheckReq": true
+  }
+}
